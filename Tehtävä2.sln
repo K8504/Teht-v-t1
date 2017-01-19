@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä2", "Tehtävä2\Tehtävä2.csproj", "{C2F6BE94-B742-4096-9394-A5B7A21526F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_2", "Tehtävä2\Tehtava_2.csproj", "{C2F6BE94-B742-4096-9394-A5B7A21526F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_3", "Tehtava_3\Tehtava_3.csproj", "{43B7579E-64C0-4795-8BC0-A7F06F725A25}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_1", "Tehtava_1\Tehtava_1.csproj", "{A82555A4-8592-4399-ADC3-9B137AA3EDA7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_7", "Tehtava_7\Tehtava_7.csproj", "{4D7A08C7-C5FA-410A-BDE0-4E65A63F1DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_8", "Tehtava_8\Tehtava_8.csproj", "{E3DDB40C-56BE-4C1F-8F7F-0783573048B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4D7A08C7-C5FA-410A-BDE0-4E65A63F1DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D7A08C7-C5FA-410A-BDE0-4E65A63F1DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D7A08C7-C5FA-410A-BDE0-4E65A63F1DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3DDB40C-56BE-4C1F-8F7F-0783573048B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DDB40C-56BE-4C1F-8F7F-0783573048B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DDB40C-56BE-4C1F-8F7F-0783573048B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DDB40C-56BE-4C1F-8F7F-0783573048B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
